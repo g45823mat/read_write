@@ -1,7 +1,7 @@
 <header>
 
 # Read Write collecction
-_Read and write text data with many languages._
+Read and write text data with many languages.
 </header>
 
 ## input
