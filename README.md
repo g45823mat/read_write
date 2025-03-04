@@ -1,6 +1,6 @@
 <header>
 
-# Read Write Collecction
+# Read Write Collection
 Read and write text data with many languages.
 </header>
 
